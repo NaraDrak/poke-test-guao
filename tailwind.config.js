@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        azulPokemon: "#566CD6",
+        bluePokemon: "#566CD6",
+        textPokemon: "#40415E",
       },
     },
   },
