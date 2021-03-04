@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply bg-blue-500;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
